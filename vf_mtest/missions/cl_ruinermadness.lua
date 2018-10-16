@@ -7,7 +7,7 @@ local destCoords = vector3(-2310.72, 266.46, 169.6)
 local destBlip
 local spawnEnemyTime
 
-AddTextEntry("m_ruinermadness_task", "Get the Insurgent to the ~y~hideout~w~.")
+AddTextEntry("m_ruinermadness_task", "Leve o Informante ao ~y~esconderijo~w~.")
 DecorRegister("m_ruinermadness_entity", 2)
 local enemyGroup = AddRelationshipGroup("m_ruinermadness_enemygroup")
 
